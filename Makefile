@@ -1,6 +1,7 @@
-install:
+env:
 	python3 -m venv .
-	source bin/activate
+
+init:
 	pip install -r requirements.txt
 
 freeze:

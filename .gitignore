@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+include/
+lib/
+bin/
+lib64/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+pyvenv.cfg
