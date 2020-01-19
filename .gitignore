@@ -13,3 +13,4 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 pyvenv.cfg
+creds.json

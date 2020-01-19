@@ -6,9 +6,3 @@ init:
 
 freeze:
 	pip freeze > requirements.txt
-
-activate:
-	source bin/activate
-
-quit:
-	deactivate
